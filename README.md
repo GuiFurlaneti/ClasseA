@@ -3,7 +3,7 @@
 🎯 Site institucional desenvolvido para a **Agência Classe A**, empresa de distribuição profissional de panfletos e materiais gráficos em São Paulo desde 2008. O objetivo foi criar uma presença digital moderna, persuasiva e funcional — com foco em conversão via WhatsApp, identidade visual consistente e experiência fluida em qualquer dispositivo.
 
 🔗 **Acesse aqui o projeto online:**  
-➡️ [guifurlaneti.github.io/classe-a-site](https://guifurlaneti.github.io/classe-a-site/)
+➡️ [guifurlaneti.github.io/ClasseA](https://guifurlaneti.github.io/ClasseA/)
 
 ---
 
@@ -68,7 +68,7 @@
 ## 📁 Estrutura do Projeto
 
 ```
-classe-a-site/
+ClasseA/
 ├── index.html              ← Site completo (HTML + CSS + JS)
 ├── .gitignore
 ├── README.md
@@ -87,8 +87,8 @@ classe-a-site/
 Não requer instalação. Basta clonar o repositório e abrir o arquivo `index.html` no navegador:
 
 ```bash
-git clone https://github.com/guifurlaneti/classe-a-site.git
-cd classe-a-site
+git clone https://github.com/guifurlaneti/ClasseA.git
+cd ClasseA
 # Abra o index.html no seu navegador
 ```
 
